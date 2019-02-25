@@ -1,34 +1,124 @@
 {
   "mahasiswa":
-[{"id":1,"name":"Todd Fennessy","gender":"Male"},
-{"id":2,"name":"Velma Yeandel","gender":"Female"},
-{"id":3,"name":"Meara Buche","gender":"Female"},
-{"id":4,"name":"Othelia Kernock","gender":"Female"},
-{"id":5,"name":"Pauli Desseine","gender":"Female"},
-{"id":6,"name":"Leanna Harry","gender":"Female"},
-{"id":7,"name":"Josey Goodridge","gender":"Female"},
-{"id":8,"name":"Moise Chatell","gender":"Male"},
-{"id":9,"name":"Rosalinda Conti","gender":"Female"},
-{"id":10,"name":"Zora Crowd","gender":"Female"},
-{"id":11,"name":"Allin MacMenamy","gender":"Male"},
-{"id":12,"name":"Clayborne Ivanshintsev","gender":"Male"},
-{"id":13,"name":"Phelia McIlwreath","gender":"Female"},
-{"id":14,"name":"Ilka Waugh","gender":"Female"},
-{"id":15,"name":"Gordy Shayes","gender":"Male"},
-{"id":16,"name":"Zenia Boast","gender":"Female"},
-{"id":17,"name":"Maribeth Spriggs","gender":"Female"},
-{"id":18,"name":"Shannon Saurat","gender":"Male"},
-{"id":19,"name":"Petr Chown","gender":"Male"},
-{"id":20,"name":"Alexandra Hupka","gender":"Female"},
-{"id":21,"name":"Nicolas McGregor","gender":"Male"},
-{"id":22,"name":"Jami Pleasaunce","gender":"Female"},
-{"id":23,"name":"Hieronymus Batrip","gender":"Male"},
-{"id":24,"name":"Serena Scard","gender":"Female"},
-{"id":25,"name":"Norine Belly","gender":"Female"},
-{"id":26,"name":"Katleen Phythian","gender":"Female"},
-{"id":27,"name":"Bari Ridler","gender":"Female"},
-{"id":28,"name":"Tony Bispo","gender":"Female"},
-{"id":29,"name":"Petr Morrow","gender":"Male"},
-{"id":30,"name":"Alvera Meredyth","gender":"Female"}]
-
+[{
+  "id": 1,
+  "name": "Leonid Guswell",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Karyl MacCurley",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Malanie Dabes",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "name": "Cedric Grzeskowski",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Cassie Gerrelt",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Darill McGrorty",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Ernesto Vandrill",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Abran Barwick",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Dael Ramirez",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Glenn Shrubshall",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Chicky Nesbeth",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Gustav Hatto",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Royall Dollman",
+  "gender": "Male"
+}, {
+  "id": 14,
+  "name": "Shauna Theobalds",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Lisle Vlahos",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "name": "Michael Magauran",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Aldus Densie",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Salaidh Rigney",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Monte Dunston",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Alvinia Gerrell",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Clea Schroeder",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Marcia Glason",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Benito Rabson",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Morris Philippeaux",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Elenore Athersmith",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Lorena Calley",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "name": "Leilah Callacher",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Luther Pettipher",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Nahum Bortolomei",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Winnah Rykert",
+  "gender": "Female"
+}]
 }
